@@ -1,2 +1,7 @@
 method,Precision,Recall,F1
-kmeans_no_time,0.022,0.578,0.042
+k-Means Without time,0.022,0.578,0.042
+ECOD,0.215,0.217,0.216
+COPOD,0.007,0.997,0.014
+ABOD,0.023,0.033,0.027
+INNE,0.178,0.177,0.178
+CBLOF,0.168,0.17,0.169
